@@ -1,0 +1,16 @@
+\begin{table}[]
+	\centering
+	\caption{CAPTION}
+	\begin{tabular}{cccc}
+	\hline
+	q & w & e & r \\ 
+	\hline
+	2,59 & 1 & A & -9,979 \\ 
+	4,2 & 1 & B & -7,965 \\ 
+	6,66 & 1 & B & -2,843 \\ 
+	8,4 & 0 & B & -0,58 \\ 
+	8,31 & 1 & B & -4,577 \\ 
+	\hline 
+	\end{tabular}
+	\label{LABEL}
+\end{table}
